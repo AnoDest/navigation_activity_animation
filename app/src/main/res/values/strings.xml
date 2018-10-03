@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityAnimation</string>
+
+    <string name="hello_blank_fragment">Navigation Fragment in MainActivity</string>
+</resources>
